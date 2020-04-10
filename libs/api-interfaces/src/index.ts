@@ -1,1 +1,3 @@
-export * from './lib/api-interfaces';
+import Message from './lib/api-interfaces';
+
+export { Message };
